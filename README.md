@@ -30,4 +30,3 @@ Each chapter directory will contain my solutions for the exercises in that chapt
 ## Solutions
 
 My solutions are for learning purposes only.
-
